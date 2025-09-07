@@ -1,0 +1,2411 @@
+[
+  {
+    "stop": "31 Decembre",
+    "lat": 46.2018,
+    "lon": 6.16225,
+    "lines": [
+      "9",
+      "A"
+    ]
+  },
+  {
+    "stop": "A-L-V-Croisee",
+    "lat": 46.1884,
+    "lon": 6.0459,
+    "lines": [
+      "70"
+    ]
+  },
+  {
+    "stop": "Aeroport-P47",
+    "lat": 46.2408,
+    "lon": 6.12201,
+    "lines": [
+      "23"
+    ]
+  },
+  {
+    "stop": "Aire",
+    "lat": 46.2012,
+    "lon": 6.10314,
+    "lines": [
+      "51"
+    ]
+  },
+  {
+    "stop": "Alpes",
+    "lat": 46.209,
+    "lon": 6.14727,
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "stop": "Amandolier",
+    "lat": 46.2,
+    "lon": 6.16834,
+    "lines": [
+      "12"
+    ]
+  },
+  {
+    "stop": "Appia",
+    "lat": 46.2269,
+    "lon": 6.13676,
+    "lines": [
+      "20",
+      "22",
+      "61"
+    ]
+  },
+  {
+    "stop": "Armes",
+    "lat": 46.1868,
+    "lon": 6.14014,
+    "lines": [
+      "11",
+      "12"
+    ]
+  },
+  {
+    "stop": "Athenee",
+    "lat": 46.1984,
+    "lon": 6.14949,
+    "lines": [
+      "3",
+      "7"
+    ]
+  },
+  {
+    "stop": "Aubert",
+    "lat": 46.1919,
+    "lon": 6.16361,
+    "lines": [
+      "11"
+    ]
+  },
+  {
+    "stop": "Augustins",
+    "lat": 46.192,
+    "lon": 6.14285,
+    "lines": [
+      "12"
+    ]
+  },
+  {
+    "stop": "Aumones",
+    "lat": 46.2104,
+    "lon": 6.23491,
+    "lines": [
+      "37"
+    ]
+  },
+  {
+    "stop": "Avanchets-Etang",
+    "lat": 46.2196,
+    "lon": 6.10581,
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "stop": "Avenue De L'Ain",
+    "lat": 46.2062,
+    "lon": 6.11006,
+    "lines": [
+      "22"
+    ]
+  },
+  {
+    "stop": "Avenue De Vessy",
+    "lat": 46.2631,
+    "lon": 6.11247,
+    "lines": [
+      "66"
+    ]
+  },
+  {
+    "stop": "Aviateurs",
+    "lat": 46.1696,
+    "lon": 6.1204,
+    "lines": [
+      "80",
+      "82"
+    ]
+  },
+  {
+    "stop": "B.-Terre-Araire",
+    "lat": 46.2062,
+    "lon": 6.21834,
+    "lines": [
+      "9"
+    ]
+  },
+  {
+    "stop": "Bains",
+    "lat": 46.1999,
+    "lon": 6.13742,
+    "lines": [
+      "91"
+    ]
+  },
+  {
+    "stop": "Bains De Cressy",
+    "lat": 46.1855,
+    "lon": 6.08776,
+    "lines": [
+      "43"
+    ]
+  },
+  {
+    "stop": "Baulacre",
+    "lat": 46.2165,
+    "lon": 6.13929,
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "stop": "Bel-Air",
+    "lat": 46.2051,
+    "lon": 6.14295,
+    "lines": [
+      "3",
+      "7",
+      "10",
+      "14",
+      "19",
+      "20"
+    ]
+  },
+  {
+    "stop": "Bernex-Hainard",
+    "lat": 46.1761,
+    "lon": 6.06672,
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "stop": "Bernex-Vailly",
+    "lat": 46.175,
+    "lon": 6.061,
+    "lines": [
+      "14",
+      "40"
+    ]
+  },
+  {
+    "stop": "Berthet",
+    "lat": 46.1832,
+    "lon": 6.09085,
+    "lines": [
+      "2"
+    ]
+  },
+  {
+    "stop": "Blanchards",
+    "lat": 46.198,
+    "lon": 6.07998,
+    "lines": [
+      "43"
+    ]
+  },
+  {
+    "stop": "Blanche",
+    "lat": 46.1896,
+    "lon": 6.14333,
+    "lines": [
+      "12",
+      "91"
+    ]
+  },
+  {
+    "stop": "Blandonnet",
+    "lat": 46.222,
+    "lon": 6.0974,
+    "lines": [
+      "14",
+      "57",
+      "68"
+    ]
+  },
+  {
+    "stop": "Bochere",
+    "lat": 46.1792,
+    "lon": 6.16468,
+    "lines": [
+      "97"
+    ]
+  },
+  {
+    "stop": "Bois Carrien",
+    "lat": 46.1912,
+    "lon": 6.10019,
+    "lines": [
+      "19"
+    ]
+  },
+  {
+    "stop": "Bois-Des-Freres",
+    "lat": 46.2117,
+    "lon": 6.10469,
+    "lines": [
+      "51"
+    ]
+  },
+  {
+    "stop": "Boqueteaux",
+    "lat": 46.1634,
+    "lon": 6.17522,
+    "lines": [
+      "41"
+    ]
+  },
+  {
+    "stop": "Bossons",
+    "lat": 46.1903,
+    "lon": 6.11224,
+    "lines": [
+      "21"
+    ]
+  },
+  {
+    "stop": "Bouchet",
+    "lat": 46.2167,
+    "lon": 6.11792,
+    "lines": [
+      "10",
+      "18",
+      "22",
+      "53"
+    ]
+  },
+  {
+    "stop": "Bout-Du-Monde",
+    "lat": 46.1823,
+    "lon": 6.1567,
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "stop": "Bovy-Lysberg",
+    "lat": 46.2024,
+    "lon": 6.14285,
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "stop": "Butini",
+    "lat": 46.2167,
+    "lon": 6.14775,
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "stop": "Calas",
+    "lat": 46.1901,
+    "lon": 6.15255,
+    "lines": [
+      "91"
+    ]
+  },
+  {
+    "stop": "Camille-Martin",
+    "lat": 46.2063,
+    "lon": 6.11758,
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "stop": "Canonniere",
+    "lat": 46.2147,
+    "lon": 6.13417,
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "stop": "Capite",
+    "lat": 46.2347,
+    "lon": 6.20371,
+    "lines": [
+      "39"
+    ]
+  },
+  {
+    "stop": "Carouge Rondeau",
+    "lat": 46.1807,
+    "lon": 6.13828,
+    "lines": [
+      "21",
+      "41",
+      "45"
+    ]
+  },
+  {
+    "stop": "Carouge-Tours",
+    "lat": 46.1833,
+    "lon": 6.13508,
+    "lines": [
+      "11",
+      "23",
+      "41"
+    ]
+  },
+  {
+    "stop": "Carre-D'Amont",
+    "lat": 46.236,
+    "lon": 6.21681,
+    "lines": [
+      "A"
+    ]
+  },
+  {
+    "stop": "Cern",
+    "lat": 46.2336,
+    "lon": 6.05525,
+    "lines": [
+      "18",
+      "67"
+    ]
+  },
+  {
+    "stop": "Certoux, Vill.",
+    "lat": 46.156,
+    "lon": 6.08158,
+    "lines": [
+      "48"
+    ]
+  },
+  {
+    "stop": "Ch. De L'Eperon",
+    "lat": 46.2049,
+    "lon": 6.1856,
+    "lines": [
+      "1",
+      "9"
+    ]
+  },
+  {
+    "stop": "Ch. Des Clys",
+    "lat": 46.2504,
+    "lon": 6.13022,
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "stop": "Ch.-Bourg-Place",
+    "lat": 46.1974,
+    "lon": 6.19531,
+    "lines": [
+      "41"
+    ]
+  },
+  {
+    "stop": "Champel Gare",
+    "lat": 46.1918,
+    "lon": 6.15278,
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "stop": "Champel Gare P.",
+    "lat": 46.1941,
+    "lon": 6.1531,
+    "lines": [
+      "1",
+      "3",
+      "20"
+    ]
+  },
+  {
+    "stop": "Champvigny",
+    "lat": 46.2206,
+    "lon": 6.03485,
+    "lines": [
+      "71"
+    ]
+  },
+  {
+    "stop": "Chancy-Douane",
+    "lat": 46.1444,
+    "lon": 5.96556,
+    "lines": [
+      "40"
+    ]
+  },
+  {
+    "stop": "Chantepoulet",
+    "lat": 46.2082,
+    "lon": 6.14358,
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "stop": "Charmilles",
+    "lat": 46.2077,
+    "lon": 6.12715,
+    "lines": [
+      "11"
+    ]
+  },
+  {
+    "stop": "Chatelaine",
+    "lat": 46.2111,
+    "lon": 6.11271,
+    "lines": [
+      "19"
+    ]
+  },
+  {
+    "stop": "Chemin Du Bac",
+    "lat": 46.1946,
+    "lon": 6.11213,
+    "lines": [
+      "28"
+    ]
+  },
+  {
+    "stop": "Chens-Sur-Leman",
+    "lat": 46.315,
+    "lon": 6.2654,
+    "lines": [
+      "38"
+    ]
+  },
+  {
+    "stop": "Chevrier",
+    "lat": 46.2205,
+    "lon": 6.22497,
+    "lines": [
+      "33",
+      "34"
+    ]
+  },
+  {
+    "stop": "Cimetiere St-G.",
+    "lat": 46.197,
+    "lon": 6.11545,
+    "lines": [
+      "19"
+    ]
+  },
+  {
+    "stop": "Cirque",
+    "lat": 46.2008,
+    "lon": 6.14002,
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "stop": "Claire-Vue",
+    "lat": 46.1953,
+    "lon": 6.12271,
+    "lines": [
+      "2"
+    ]
+  },
+  {
+    "stop": "Co Renard",
+    "lat": 46.1963,
+    "lon": 6.09391,
+    "lines": [
+      "51"
+    ]
+  },
+  {
+    "stop": "Coll. Claparede",
+    "lat": 46.1902,
+    "lon": 6.18639,
+    "lines": [
+      "25",
+      "41"
+    ]
+  },
+  {
+    "stop": "Collonge",
+    "lat": 46.254,
+    "lon": 6.20474,
+    "lines": [
+      "E"
+    ]
+  },
+  {
+    "stop": "Cologny-Croisee",
+    "lat": 46.2127,
+    "lon": 6.18379,
+    "lines": [
+      "A"
+    ]
+  },
+  {
+    "stop": "Colovrex",
+    "lat": 46.2562,
+    "lon": 6.13288,
+    "lines": [
+      "52"
+    ]
+  },
+  {
+    "stop": "Communes-Reunies",
+    "lat": 46.1713,
+    "lon": 6.12368,
+    "lines": [
+      "80"
+    ]
+  },
+  {
+    "stop": "Conches Place",
+    "lat": 46.1847,
+    "lon": 6.17381,
+    "lines": [
+      "20",
+      "34"
+    ]
+  },
+  {
+    "stop": "Confignon-Cr.",
+    "lat": 46.1788,
+    "lon": 6.08977,
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "stop": "Confignon-Mairie",
+    "lat": 46.1735,
+    "lon": 6.08462,
+    "lines": [
+      "48"
+    ]
+  },
+  {
+    "stop": "Courbes",
+    "lat": 46.2807,
+    "lon": 6.22719,
+    "lines": [
+      "E"
+    ]
+  },
+  {
+    "stop": "Coutance",
+    "lat": 46.2076,
+    "lon": 6.14221,
+    "lines": [
+      "3",
+      "10",
+      "18",
+      "20"
+    ]
+  },
+  {
+    "stop": "Cressy",
+    "lat": 46.1823,
+    "lon": 6.08826,
+    "lines": [
+      "2"
+    ]
+  },
+  {
+    "stop": "Croix D'Ambilly",
+    "lat": 46.1924,
+    "lon": 6.22292,
+    "lines": [
+      "17"
+    ]
+  },
+  {
+    "stop": "Crozet, Ecole",
+    "lat": 46.2785,
+    "lon": 6.01517,
+    "lines": [
+      "67"
+    ]
+  },
+  {
+    "stop": "De-Joinville",
+    "lat": 46.2245,
+    "lon": 6.10786,
+    "lines": [
+      "53"
+    ]
+  },
+  {
+    "stop": "De-Sauvage",
+    "lat": 46.2133,
+    "lon": 6.10336,
+    "lines": [
+      "6"
+    ]
+  },
+  {
+    "stop": "De-Stael",
+    "lat": 46.1761,
+    "lon": 6.13261,
+    "lines": [
+      "12"
+    ]
+  },
+  {
+    "stop": "De-Ternier",
+    "lat": 46.1936,
+    "lon": 6.10719,
+    "lines": [
+      "19"
+    ]
+  },
+  {
+    "stop": "Delices",
+    "lat": 46.2052,
+    "lon": 6.13184,
+    "lines": [
+      "9"
+    ]
+  },
+  {
+    "stop": "Dole",
+    "lat": 46.2089,
+    "lon": 6.13153,
+    "lines": [
+      "6",
+      "10"
+    ]
+  },
+  {
+    "stop": "Eaumorte-Hameau",
+    "lat": 46.1632,
+    "lon": 6.01877,
+    "lines": [
+      "42"
+    ]
+  },
+  {
+    "stop": "Eaux-Vives-Vadie",
+    "lat": 46.2029,
+    "lon": 6.17012,
+    "lines": [
+      "1",
+      "9"
+    ]
+  },
+  {
+    "stop": "Eaux-Vives/Bloch",
+    "lat": 46.2031,
+    "lon": 6.16612,
+    "lines": [
+      "1",
+      "33"
+    ]
+  },
+  {
+    "stop": "Ecu",
+    "lat": 46.2099,
+    "lon": 6.1053,
+    "lines": [
+      "51"
+    ]
+  },
+  {
+    "stop": "Etang-Casa Bamba",
+    "lat": 46.2191,
+    "lon": 6.10302,
+    "lines": [
+      "28"
+    ]
+  },
+  {
+    "stop": "Etang-Place",
+    "lat": 46.2165,
+    "lon": 6.10472,
+    "lines": [
+      "28"
+    ]
+  },
+  {
+    "stop": "Ferney, Poterie",
+    "lat": 46.2521,
+    "lon": 6.1168,
+    "lines": [
+      "61"
+    ]
+  },
+  {
+    "stop": "Ferney-Mairie",
+    "lat": 46.2555,
+    "lon": 6.10814,
+    "lines": [
+      "60"
+    ]
+  },
+  {
+    "stop": "Feuillat",
+    "lat": 46.1486,
+    "lon": 6.11222,
+    "lines": [
+      "46"
+    ]
+  },
+  {
+    "stop": "Florissant",
+    "lat": 46.1967,
+    "lon": 6.15381,
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "stop": "Fossard",
+    "lat": 46.1852,
+    "lon": 6.19177,
+    "lines": [
+      "41"
+    ]
+  },
+  {
+    "stop": "Fourches",
+    "lat": 46.204,
+    "lon": 6.19112,
+    "lines": [
+      "9"
+    ]
+  },
+  {
+    "stop": "Franchises",
+    "lat": 46.2131,
+    "lon": 6.11937,
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "stop": "Fret",
+    "lat": 46.2383,
+    "lon": 6.11822,
+    "lines": [
+      "66"
+    ]
+  },
+  {
+    "stop": "Gardiol",
+    "lat": 46.229,
+    "lon": 6.12095,
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "stop": "Gare Cornavin",
+    "lat": 46.209,
+    "lon": 6.13977,
+    "lines": [
+      "5",
+      "9",
+      "14",
+      "15",
+      "19",
+      "60",
+      "61"
+    ]
+  },
+  {
+    "stop": "Gare Eaux-Vives",
+    "lat": 46.2002,
+    "lon": 6.16396,
+    "lines": [
+      "11",
+      "12"
+    ]
+  },
+  {
+    "stop": "Gare-Arena",
+    "lat": 46.2334,
+    "lon": 6.11264,
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "stop": "Gautier",
+    "lat": 46.2136,
+    "lon": 6.15057,
+    "lines": [
+      "1",
+      "25"
+    ]
+  },
+  {
+    "stop": "Gavard",
+    "lat": 46.1849,
+    "lon": 6.13548,
+    "lines": [
+      "11"
+    ]
+  },
+  {
+    "stop": "Gd-Saconnex-M.",
+    "lat": 46.2362,
+    "lon": 6.12632,
+    "lines": [
+      "50",
+      "53"
+    ]
+  },
+  {
+    "stop": "Gd-Saconnex-Pl.",
+    "lat": 46.2338,
+    "lon": 6.12349,
+    "lines": [
+      "55"
+    ]
+  },
+  {
+    "stop": "Geneve-Aeroport",
+    "lat": 46.2311,
+    "lon": 6.10957,
+    "lines": [
+      "10",
+      "28",
+      "54",
+      "55",
+      "57",
+      "59"
+    ]
+  },
+  {
+    "stop": "Geneve-Plage",
+    "lat": 46.2116,
+    "lon": 6.17235,
+    "lines": [
+      "2",
+      "6",
+      "E"
+    ]
+  },
+  {
+    "stop": "Genthod-C. Orni",
+    "lat": 46.2646,
+    "lon": 6.14643,
+    "lines": [
+      "52"
+    ]
+  },
+  {
+    "stop": "Genthod-Village",
+    "lat": 46.2647,
+    "lon": 6.1551,
+    "lines": [
+      "52"
+    ]
+  },
+  {
+    "stop": "Gex-L'Aiglette",
+    "lat": 46.338,
+    "lon": 6.07328,
+    "lines": [
+      "60"
+    ]
+  },
+  {
+    "stop": "Goulart",
+    "lat": 46.2076,
+    "lon": 6.1415,
+    "lines": [
+      "18"
+    ]
+  },
+  {
+    "stop": "Grand-Hangar",
+    "lat": 46.2244,
+    "lon": 6.09984,
+    "lines": [
+      "23"
+    ]
+  },
+  {
+    "stop": "Grand-Lancy-Pl.",
+    "lat": 46.1818,
+    "lon": 6.12069,
+    "lines": [
+      "22",
+      "23"
+    ]
+  },
+  {
+    "stop": "Grand-Pre",
+    "lat": 46.2155,
+    "lon": 6.13048,
+    "lines": [
+      "3",
+      "11"
+    ]
+  },
+  {
+    "stop": "Grange-Canal",
+    "lat": 46.1997,
+    "lon": 6.17442,
+    "lines": [
+      "12"
+    ]
+  },
+  {
+    "stop": "Grange-Collomb",
+    "lat": 46.1757,
+    "lon": 6.13823,
+    "lines": [
+      "44",
+      "45"
+    ]
+  },
+  {
+    "stop": "Grange-Falquet",
+    "lat": 46.1984,
+    "lon": 6.18539,
+    "lines": [
+      "12",
+      "17"
+    ]
+  },
+  {
+    "stop": "Grangettes",
+    "lat": 46.1989,
+    "lon": 6.18007,
+    "lines": [
+      "17"
+    ]
+  },
+  {
+    "stop": "Graveson",
+    "lat": 46.1932,
+    "lon": 6.20093,
+    "lines": [
+      "32"
+    ]
+  },
+  {
+    "stop": "Gresy",
+    "lat": 46.2084,
+    "lon": 6.2304,
+    "lines": [
+      "37"
+    ]
+  },
+  {
+    "stop": "Gros-Chene",
+    "lat": 46.19,
+    "lon": 6.10329,
+    "lines": [
+      "2"
+    ]
+  },
+  {
+    "stop": "Grottes",
+    "lat": 46.213,
+    "lon": 6.1375,
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "stop": "Guye",
+    "lat": 46.2089,
+    "lon": 6.12355,
+    "lines": [
+      "6",
+      "19"
+    ]
+  },
+  {
+    "stop": "Hauts-De-Magny",
+    "lat": 46.2548,
+    "lon": 6.08712,
+    "lines": [
+      "64"
+    ]
+  },
+  {
+    "stop": "Hopital",
+    "lat": 46.195,
+    "lon": 6.14881,
+    "lines": [
+      "5",
+      "7"
+    ]
+  },
+  {
+    "stop": "Hopital 3-Chene",
+    "lat": 46.2091,
+    "lon": 6.21507,
+    "lines": [
+      "1",
+      "31"
+    ]
+  },
+  {
+    "stop": "Hopital La Tour",
+    "lat": 46.2291,
+    "lon": 6.06664,
+    "lines": [
+      "68"
+    ]
+  },
+  {
+    "stop": "Hotel-De-Ville",
+    "lat": 46.2009,
+    "lon": 6.14645,
+    "lines": [
+      "92"
+    ]
+  },
+  {
+    "stop": "Industrielle",
+    "lat": 46.1903,
+    "lon": 6.13364,
+    "lines": [
+      "17"
+    ]
+  },
+  {
+    "stop": "Intercontinental",
+    "lat": 46.2242,
+    "lon": 6.13335,
+    "lines": [
+      "51"
+    ]
+  },
+  {
+    "stop": "Jardin Botanique",
+    "lat": 46.2233,
+    "lon": 6.14757,
+    "lines": [
+      "11",
+      "25"
+    ]
+  },
+  {
+    "stop": "Jardin-Alpin-V.",
+    "lat": 46.2256,
+    "lon": 6.08387,
+    "lines": [
+      "14",
+      "57"
+    ]
+  },
+  {
+    "stop": "Jean Monnet",
+    "lat": 46.2449,
+    "lon": 6.02305,
+    "lines": [
+      "68"
+    ]
+  },
+  {
+    "stop": "Jonction",
+    "lat": 46.2007,
+    "lon": 6.12955,
+    "lines": [
+      "2",
+      "14",
+      "19"
+    ]
+  },
+  {
+    "stop": "Jussy-Meurets",
+    "lat": 46.2365,
+    "lon": 6.2721,
+    "lines": [
+      "32"
+    ]
+  },
+  {
+    "stop": "Krieg",
+    "lat": 46.1939,
+    "lon": 6.16083,
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "stop": "L'Avenir",
+    "lat": 46.2201,
+    "lon": 6.2397,
+    "lines": [
+      "32"
+    ]
+  },
+  {
+    "stop": "La Dode",
+    "lat": 46.1804,
+    "lon": 6.09368,
+    "lines": [
+      "42"
+    ]
+  },
+  {
+    "stop": "La Plaine-Gare",
+    "lat": 46.1785,
+    "lon": 5.99979,
+    "lines": [
+      "69"
+    ]
+  },
+  {
+    "stop": "La Pralay",
+    "lat": 46.2687,
+    "lon": 6.15831,
+    "lines": [
+      "50"
+    ]
+  },
+  {
+    "stop": "La Prele",
+    "lat": 46.2678,
+    "lon": 6.12426,
+    "lines": [
+      "52"
+    ]
+  },
+  {
+    "stop": "Laconnex-Stand",
+    "lat": 46.159,
+    "lon": 6.03795,
+    "lines": [
+      "L"
+    ]
+  },
+  {
+    "stop": "Lancy-Bachet",
+    "lat": 46.1739,
+    "lon": 6.1297,
+    "lines": [
+      "17",
+      "22",
+      "23",
+      "43",
+      "46",
+      "80"
+    ]
+  },
+  {
+    "stop": "Lancy-Hubert",
+    "lat": 46.1925,
+    "lon": 6.10999,
+    "lines": [
+      "21",
+      "28"
+    ]
+  },
+  {
+    "stop": "Lancy-Mairie",
+    "lat": 46.1839,
+    "lon": 6.12166,
+    "lines": [
+      "43"
+    ]
+  },
+  {
+    "stop": "Lancy-P-R/Etoile",
+    "lat": 46.1874,
+    "lon": 6.12834,
+    "lines": [
+      "15",
+      "17",
+      "43",
+      "80"
+    ]
+  },
+  {
+    "stop": "Lancy-Pt-R.-Gare",
+    "lat": 46.1884,
+    "lon": 6.12414,
+    "lines": [
+      "40"
+    ]
+  },
+  {
+    "stop": "Le Rolliet",
+    "lat": 46.1716,
+    "lon": 6.10839,
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "stop": "Le-Fort",
+    "lat": 46.2089,
+    "lon": 6.18041,
+    "lines": [
+      "A"
+    ]
+  },
+  {
+    "stop": "Les Esserts",
+    "lat": 46.1882,
+    "lon": 6.11344,
+    "lines": [
+      "14",
+      "42"
+    ]
+  },
+  {
+    "stop": "Les Ouches",
+    "lat": 46.2103,
+    "lon": 6.11732,
+    "lines": [
+      "6",
+      "19",
+      "22"
+    ]
+  },
+  {
+    "stop": "Lignon-Cite",
+    "lat": 46.2037,
+    "lon": 6.09787,
+    "lines": [
+      "7",
+      "28"
+    ]
+  },
+  {
+    "stop": "Lignon-Tours",
+    "lat": 46.201,
+    "lon": 6.09308,
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "stop": "Luchepelet",
+    "lat": 46.1783,
+    "lon": 6.07274,
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "stop": "Lullier",
+    "lat": 46.2277,
+    "lon": 6.25551,
+    "lines": [
+      "37"
+    ]
+  },
+  {
+    "stop": "Lyon",
+    "lat": 46.2097,
+    "lon": 6.13839,
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "stop": "Maillard",
+    "lat": 46.2275,
+    "lon": 6.06643,
+    "lines": [
+      "71"
+    ]
+  },
+  {
+    "stop": "Malagnou",
+    "lat": 46.1934,
+    "lon": 6.17661,
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "stop": "Malpertuis",
+    "lat": 46.182,
+    "lon": 6.06468,
+    "lines": [
+      "83"
+    ]
+  },
+  {
+    "stop": "Mancy",
+    "lat": 46.2417,
+    "lon": 6.20118,
+    "lines": [
+      "G"
+    ]
+  },
+  {
+    "stop": "Meinier-Eglise",
+    "lat": 46.2466,
+    "lon": 6.23384,
+    "lines": [
+      "A"
+    ]
+  },
+  {
+    "stop": "Mercier",
+    "lat": 46.2065,
+    "lon": 6.13994,
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "stop": "Merle-D'Aubigne",
+    "lat": 46.2067,
+    "lon": 6.16185,
+    "lines": [
+      "2",
+      "G"
+    ]
+  },
+  {
+    "stop": "Metropole",
+    "lat": 46.2034,
+    "lon": 6.15145,
+    "lines": [
+      "2"
+    ]
+  },
+  {
+    "stop": "Meyrin-Gare",
+    "lat": 46.2216,
+    "lon": 6.07466,
+    "lines": [
+      "68"
+    ]
+  },
+  {
+    "stop": "Meyrin-Graviere",
+    "lat": 46.2366,
+    "lon": 6.08171,
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "stop": "Meyrin-Village",
+    "lat": 46.2289,
+    "lon": 6.07181,
+    "lines": [
+      "18"
+    ]
+  },
+  {
+    "stop": "Miremont",
+    "lat": 46.1892,
+    "lon": 6.15665,
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "stop": "Moillebeau",
+    "lat": 46.2206,
+    "lon": 6.12969,
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "stop": "Moillesulaz",
+    "lat": 46.1925,
+    "lon": 6.20658,
+    "lines": [
+      "12"
+    ]
+  },
+  {
+    "stop": "Mollaz",
+    "lat": 46.1544,
+    "lon": 6.03388,
+    "lines": [
+      "83"
+    ]
+  },
+  {
+    "stop": "Mont-Blanc",
+    "lat": 46.2076,
+    "lon": 6.14664,
+    "lines": [
+      "6",
+      "8",
+      "9",
+      "25"
+    ]
+  },
+  {
+    "stop": "Montesquiou",
+    "lat": 46.1811,
+    "lon": 6.10597,
+    "lines": [
+      "43"
+    ]
+  },
+  {
+    "stop": "Moraines",
+    "lat": 46.1819,
+    "lon": 6.1445,
+    "lines": [
+      "11"
+    ]
+  },
+  {
+    "stop": "Morillons",
+    "lat": 46.2308,
+    "lon": 6.13141,
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "stop": "Moulin-De-Vert",
+    "lat": 46.175,
+    "lon": 6.02212,
+    "lines": [
+      "42"
+    ]
+  },
+  {
+    "stop": "Musee D'Ethno.",
+    "lat": 46.198,
+    "lon": 6.13643,
+    "lines": [
+      "2"
+    ]
+  },
+  {
+    "stop": "Nant D'Avril",
+    "lat": 46.2256,
+    "lon": 6.05679,
+    "lines": [
+      "57"
+    ]
+  },
+  {
+    "stop": "Nations",
+    "lat": 46.2218,
+    "lon": 6.13778,
+    "lines": [
+      "8",
+      "11",
+      "15",
+      "22"
+    ]
+  },
+  {
+    "stop": "Navigation",
+    "lat": 46.212,
+    "lon": 6.14963,
+    "lines": [
+      "1",
+      "25"
+    ]
+  },
+  {
+    "stop": "Oms-Bit",
+    "lat": 46.2308,
+    "lon": 6.13413,
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "stop": "Onex-Cite",
+    "lat": 46.1884,
+    "lon": 6.09987,
+    "lines": [
+      "21"
+    ]
+  },
+  {
+    "stop": "Ornex-Prenepla",
+    "lat": 46.2693,
+    "lon": 6.09875,
+    "lines": [
+      "60"
+    ]
+  },
+  {
+    "stop": "Palais Eynard",
+    "lat": 46.2001,
+    "lon": 6.14672,
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "stop": "Palettes",
+    "lat": 46.1768,
+    "lon": 6.12199,
+    "lines": [
+      "15",
+      "22"
+    ]
+  },
+  {
+    "stop": "Palexpo",
+    "lat": 46.2335,
+    "lon": 6.11813,
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "stop": "Palexpo-Halle 7",
+    "lat": 46.2349,
+    "lon": 6.11646,
+    "lines": [
+      "66"
+    ]
+  },
+  {
+    "stop": "Palladium",
+    "lat": 46.2031,
+    "lon": 6.13386,
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "stop": "Parc Des Anneaux",
+    "lat": 46.2486,
+    "lon": 6.08664,
+    "lines": [
+      "64"
+    ]
+  },
+  {
+    "stop": "Parc Montessuit",
+    "lat": 46.1943,
+    "lon": 6.23101,
+    "lines": [
+      "17"
+    ]
+  },
+  {
+    "stop": "Passage Douane",
+    "lat": 46.2349,
+    "lon": 6.05002,
+    "lines": [
+      "60",
+      "68"
+    ]
+  },
+  {
+    "stop": "Peillonnex",
+    "lat": 46.194,
+    "lon": 6.1943,
+    "lines": [
+      "12",
+      "37"
+    ]
+  },
+  {
+    "stop": "Peissy",
+    "lat": 46.2106,
+    "lon": 6.02006,
+    "lines": [
+      "72"
+    ]
+  },
+  {
+    "stop": "Peney-Dessus",
+    "lat": 46.2003,
+    "lon": 6.03683,
+    "lines": [
+      "73"
+    ]
+  },
+  {
+    "stop": "Penthes",
+    "lat": 46.2324,
+    "lon": 6.13875,
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "stop": "Petit-Bel-Air",
+    "lat": 46.2039,
+    "lon": 6.20385,
+    "lines": [
+      "1",
+      "9",
+      "34"
+    ]
+  },
+  {
+    "stop": "Petit-Lancy-Pl.",
+    "lat": 46.1903,
+    "lon": 6.11902,
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "stop": "Petit-Saconnex",
+    "lat": 46.223,
+    "lon": 6.13045,
+    "lines": [
+      "51"
+    ]
+  },
+  {
+    "stop": "Petit-Veyrier",
+    "lat": 46.1706,
+    "lon": 6.18245,
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "stop": "Pictet-Thellus.",
+    "lat": 46.189,
+    "lon": 6.13116,
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "stop": "Pinchat-La-Tour",
+    "lat": 46.1758,
+    "lon": 6.15257,
+    "lines": [
+      "41"
+    ]
+  },
+  {
+    "stop": "Place Claparede",
+    "lat": 46.1955,
+    "lon": 6.15069,
+    "lines": [
+      "5",
+      "20",
+      "92"
+    ]
+  },
+  {
+    "stop": "Place De Neuve",
+    "lat": 46.201,
+    "lon": 6.14379,
+    "lines": [
+      "12",
+      "92"
+    ]
+  },
+  {
+    "stop": "Place Eaux-Vives",
+    "lat": 46.2025,
+    "lon": 6.15543,
+    "lines": [
+      "9",
+      "10",
+      "A",
+      "E+"
+    ]
+  },
+  {
+    "stop": "Place Favre",
+    "lat": 46.1956,
+    "lon": 6.19296,
+    "lines": [
+      "31",
+      "38"
+    ]
+  },
+  {
+    "stop": "Plage Vengeron",
+    "lat": 46.2459,
+    "lon": 6.152,
+    "lines": [
+      "59"
+    ]
+  },
+  {
+    "stop": "Plainpalais",
+    "lat": 46.1986,
+    "lon": 6.14202,
+    "lines": [
+      "12",
+      "15"
+    ]
+  },
+  {
+    "stop": "Plan-Les-Ouates",
+    "lat": 46.1685,
+    "lon": 6.11812,
+    "lines": [
+      "80",
+      "82"
+    ]
+  },
+  {
+    "stop": "Pointe Jonction",
+    "lat": 46.2012,
+    "lon": 6.12617,
+    "lines": [
+      "91"
+    ]
+  },
+  {
+    "stop": "Pont-Butin",
+    "lat": 46.2041,
+    "lon": 6.10849,
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "stop": "Pont-De-Drize",
+    "lat": 46.1638,
+    "lon": 6.14896,
+    "lines": [
+      "45"
+    ]
+  },
+  {
+    "stop": "Pont-De-Lully",
+    "lat": 46.1635,
+    "lon": 6.07541,
+    "lines": [
+      "48"
+    ]
+  },
+  {
+    "stop": "Pont-De-Peney",
+    "lat": 46.1932,
+    "lon": 6.04474,
+    "lines": [
+      "83"
+    ]
+  },
+  {
+    "stop": "Pontets",
+    "lat": 46.173,
+    "lon": 6.12329,
+    "lines": [
+      "22",
+      "23"
+    ]
+  },
+  {
+    "stop": "Porte De France",
+    "lat": 46.2408,
+    "lon": 6.02921,
+    "lines": [
+      "68"
+    ]
+  },
+  {
+    "stop": "Pre-D'Orsat",
+    "lat": 46.2563,
+    "lon": 6.20712,
+    "lines": [
+      "38"
+    ]
+  },
+  {
+    "stop": "Preventorium",
+    "lat": 46.1729,
+    "lon": 6.13308,
+    "lines": [
+      "82"
+    ]
+  },
+  {
+    "stop": "Prevessin-Cern",
+    "lat": 46.2541,
+    "lon": 6.06006,
+    "lines": [
+      "66"
+    ]
+  },
+  {
+    "stop": "Queue-D'Arve",
+    "lat": 46.1954,
+    "lon": 6.13,
+    "lines": [
+      "11"
+    ]
+  },
+  {
+    "stop": "Quidort",
+    "lat": 46.1936,
+    "lon": 6.12363,
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "stop": "Ravieres",
+    "lat": 46.1551,
+    "lon": 6.09437,
+    "lines": [
+      "80"
+    ]
+  },
+  {
+    "stop": "Rieu",
+    "lat": 46.1953,
+    "lon": 6.16542,
+    "lines": [
+      "11"
+    ]
+  },
+  {
+    "stop": "Rive",
+    "lat": 46.2026,
+    "lon": 6.15393,
+    "lines": [
+      "2",
+      "10",
+      "12",
+      "25",
+      "33",
+      "E",
+      "G"
+    ]
+  },
+  {
+    "stop": "Rochette",
+    "lat": 46.1824,
+    "lon": 6.10237,
+    "lines": [
+      "43"
+    ]
+  },
+  {
+    "stop": "Roday",
+    "lat": 46.1626,
+    "lon": 6.13887,
+    "lines": [
+      "44",
+      "82"
+    ]
+  },
+  {
+    "stop": "Rue Du Lac",
+    "lat": 46.2039,
+    "lon": 6.15815,
+    "lines": [
+      "6",
+      "E"
+    ]
+  },
+  {
+    "stop": "Russin-Noirettes",
+    "lat": 46.1932,
+    "lon": 6.01654,
+    "lines": [
+      "74"
+    ]
+  },
+  {
+    "stop": "Ruth",
+    "lat": 46.2271,
+    "lon": 6.18469,
+    "lines": [
+      "G"
+    ]
+  },
+  {
+    "stop": "Saint-Loup",
+    "lat": 46.2825,
+    "lon": 6.15449,
+    "lines": [
+      "55"
+    ]
+  },
+  {
+    "stop": "Segny-Centre",
+    "lat": 46.2955,
+    "lon": 6.07623,
+    "lines": [
+      "60"
+    ]
+  },
+  {
+    "stop": "Servette",
+    "lat": 46.2137,
+    "lon": 6.12987,
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "stop": "Sezenove-Village",
+    "lat": 46.1646,
+    "lon": 6.05611,
+    "lines": [
+      "47"
+    ]
+  },
+  {
+    "stop": "Sig Lignon",
+    "lat": 46.2059,
+    "lon": 6.10439,
+    "lines": [
+      "9"
+    ]
+  },
+  {
+    "stop": "Sionnet",
+    "lat": 46.2336,
+    "lon": 6.2507,
+    "lines": [
+      "32"
+    ]
+  },
+  {
+    "stop": "Soral-Village",
+    "lat": 46.1442,
+    "lon": 6.04332,
+    "lines": [
+      "83",
+      "L"
+    ]
+  },
+  {
+    "stop": "Sous-Moulin",
+    "lat": 46.1899,
+    "lon": 6.19198,
+    "lines": [
+      "25",
+      "31",
+      "37"
+    ]
+  },
+  {
+    "stop": "St-Julien-Gare",
+    "lat": 46.1424,
+    "lon": 6.08623,
+    "lines": [
+      "80"
+    ]
+  },
+  {
+    "stop": "Stade De Geneve",
+    "lat": 46.1786,
+    "lon": 6.12869,
+    "lines": [
+      "21",
+      "40",
+      "43",
+      "80"
+    ]
+  },
+  {
+    "stop": "Stand",
+    "lat": 46.2037,
+    "lon": 6.13983,
+    "lines": [
+      "14",
+      "15",
+      "17"
+    ]
+  },
+  {
+    "stop": "Ste-Clotilde",
+    "lat": 46.1999,
+    "lon": 6.13263,
+    "lines": [
+      "19"
+    ]
+  },
+  {
+    "stop": "Terrassiere",
+    "lat": 46.201,
+    "lon": 6.15645,
+    "lines": [
+      "1",
+      "17",
+      "25"
+    ]
+  },
+  {
+    "stop": "Theatre",
+    "lat": 46.2023,
+    "lon": 6.14196,
+    "lines": [
+      "19"
+    ]
+  },
+  {
+    "stop": "Thoiry-Centre C.",
+    "lat": 46.2271,
+    "lon": 5.99258,
+    "lines": [
+      "66"
+    ]
+  },
+  {
+    "stop": "Thoiry-Gare",
+    "lat": 46.2319,
+    "lon": 5.97976,
+    "lines": [
+      "68"
+    ]
+  },
+  {
+    "stop": "Thoiry-Mairie",
+    "lat": 46.236,
+    "lon": 5.9801,
+    "lines": [
+      "68"
+    ]
+  },
+  {
+    "stop": "Thonex-Vallard",
+    "lat": 46.1892,
+    "lon": 6.19995,
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "stop": "Tour-De-Controle",
+    "lat": 46.2287,
+    "lon": 6.10397,
+    "lines": [
+      "28"
+    ]
+  },
+  {
+    "stop": "Tourelle",
+    "lat": 46.2243,
+    "lon": 6.12699,
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "stop": "Tranchees",
+    "lat": 46.1985,
+    "lon": 6.15542,
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "stop": "Trefle-Blanc",
+    "lat": 46.1715,
+    "lon": 6.12525,
+    "lines": [
+      "17"
+    ]
+  },
+  {
+    "stop": "Trembley",
+    "lat": 46.2177,
+    "lon": 6.12643,
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "stop": "Triaz",
+    "lat": 46.2963,
+    "lon": 6.24318,
+    "lines": [
+      "E"
+    ]
+  },
+  {
+    "stop": "Tronchet",
+    "lat": 46.1962,
+    "lon": 6.2056,
+    "lines": [
+      "32"
+    ]
+  },
+  {
+    "stop": "Tunnel Routier",
+    "lat": 46.2435,
+    "lon": 6.12331,
+    "lines": [
+      "58",
+      "60"
+    ]
+  },
+  {
+    "stop": "Uni-Mail",
+    "lat": 46.1946,
+    "lon": 6.1409,
+    "lines": [
+      "12",
+      "15"
+    ]
+  },
+  {
+    "stop": "Usine A Gaz",
+    "lat": 46.2059,
+    "lon": 6.10813,
+    "lines": [
+      "9"
+    ]
+  },
+  {
+    "stop": "Val-D'Arve",
+    "lat": 46.1846,
+    "lon": 6.1503,
+    "lines": [
+      "11"
+    ]
+  },
+  {
+    "stop": "Valavran",
+    "lat": 46.2568,
+    "lon": 6.13926,
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "stop": "Vandoeuvres",
+    "lat": 46.2214,
+    "lon": 6.20296,
+    "lines": [
+      "33"
+    ]
+  },
+  {
+    "stop": "Varembe",
+    "lat": 46.2208,
+    "lon": 6.14055,
+    "lines": [
+      "60"
+    ]
+  },
+  {
+    "stop": "Vaudagne",
+    "lat": 46.2333,
+    "lon": 6.07761,
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "stop": "Veigy-Douane",
+    "lat": 46.2761,
+    "lon": 6.2463,
+    "lines": [
+      "G"
+    ]
+  },
+  {
+    "stop": "Velours",
+    "lat": 46.1894,
+    "lon": 6.16728,
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "stop": "Vern./Croisette",
+    "lat": 46.2191,
+    "lon": 6.09245,
+    "lines": [
+      "19"
+    ]
+  },
+  {
+    "stop": "Vernets",
+    "lat": 46.1937,
+    "lon": 6.13341,
+    "lines": [
+      "11"
+    ]
+  },
+  {
+    "stop": "Vernier-Ecole",
+    "lat": 46.2164,
+    "lon": 6.08584,
+    "lines": [
+      "19",
+      "57"
+    ]
+  },
+  {
+    "stop": "Vernier-Marche",
+    "lat": 46.2151,
+    "lon": 6.08196,
+    "lines": [
+      "6",
+      "53",
+      "73"
+    ]
+  },
+  {
+    "stop": "Vernier-Village",
+    "lat": 46.2125,
+    "lon": 6.07896,
+    "lines": [
+      "6",
+      "19"
+    ]
+  },
+  {
+    "stop": "Versoix-Cs",
+    "lat": 46.2957,
+    "lon": 6.15579,
+    "lines": [
+      "50"
+    ]
+  },
+  {
+    "stop": "Versoix-Gare",
+    "lat": 46.2799,
+    "lon": 6.16512,
+    "lines": [
+      "54",
+      "55"
+    ]
+  },
+  {
+    "stop": "Versoix-Lachenal",
+    "lat": 46.2839,
+    "lon": 6.16309,
+    "lines": [
+      "54"
+    ]
+  },
+  {
+    "stop": "Versonnex",
+    "lat": 46.3012,
+    "lon": 6.09567,
+    "lines": [
+      "52"
+    ]
+  },
+  {
+    "stop": "Vertes Campagnes",
+    "lat": 46.3262,
+    "lon": 6.05515,
+    "lines": [
+      "61"
+    ]
+  },
+  {
+    "stop": "Vesenaz-Eglise",
+    "lat": 46.238,
+    "lon": 6.19895,
+    "lines": [
+      "38"
+    ]
+  },
+  {
+    "stop": "Vessy-Stand Tir",
+    "lat": 46.1737,
+    "lon": 6.17005,
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "stop": "Veyrier-Tournet.",
+    "lat": 46.1632,
+    "lon": 6.17884,
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "stop": "Veyrot",
+    "lat": 46.2257,
+    "lon": 6.06372,
+    "lines": [
+      "57"
+    ]
+  },
+  {
+    "stop": "Vidollet",
+    "lat": 46.2178,
+    "lon": 6.13659,
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "stop": "Vieusseux",
+    "lat": 46.2151,
+    "lon": 6.12493,
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "stop": "Villereuse",
+    "lat": 46.2006,
+    "lon": 6.15874,
+    "lines": [
+      "12",
+      "17"
+    ]
+  },
+  {
+    "stop": "Vollandes",
+    "lat": 46.2054,
+    "lon": 6.16034,
+    "lines": [
+      "2"
+    ]
+  },
+  {
+    "stop": "Vuillonnex",
+    "lat": 46.1778,
+    "lon": 6.07897,
+    "lines": [
+      "40",
+      "47",
+      "70"
+    ]
+  },
+  {
+    "stop": "Vuy",
+    "lat": 46.1762,
+    "lon": 6.14824,
+    "lines": [
+      "41"
+    ]
+  },
+  {
+    "stop": "Weber",
+    "lat": 46.1967,
+    "lon": 6.16338,
+    "lines": [
+      "5",
+      "25"
+    ]
+  },
+  {
+    "stop": "Wtc",
+    "lat": 46.2293,
+    "lon": 6.1065,
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "stop": "Zimeysa-Gare",
+    "lat": 46.2216,
+    "lon": 6.06531,
+    "lines": [
+      "68",
+      "83"
+    ]
+  },
+  {
+    "stop": "Ziplo",
+    "lat": 46.1646,
+    "lon": 6.10241,
+    "lines": [
+      "48",
+      "82"
+    ]
+  }
+]
