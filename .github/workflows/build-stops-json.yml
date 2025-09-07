@@ -3,10 +3,9 @@ name: Build stops.json from TPG CSV
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 4 * * *"
+    - cron: "17 4 * * 0"
   push:
     paths:
-      - "stops_to_json.py"
       - ".github/workflows/build-stops-json.yml"
 
 permissions:
@@ -27,21 +26,24 @@ jobs:
       - uses: actions/checkout@v4
         with:
           persist-credentials: true
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-      - name: Fetch CSV
+      - name: Install jq
         run: |
-          curl -L --fail -o "$CSV_PATH" "$CSV_URL"
-      - name: Build JSON
+          sudo apt-get update
+          sudo apt-get install -y jq
+      - name: Fetch CSV
+        run: curl -L --fail -o "$CSV_PATH" "$CSV_URL"
+      - name: Build JSON (bash)
+        shell: bash
         run: |
           mkdir -p "$(dirname "$JSON_PATH")"
-          python stops_to_json.py "$CSV_PATH" "$JSON_PATH"
+          awk -F';' 'NR==1{next} {stop=$1; loc=$6; line=$3; if(stop!="" && loc!="" && line!=""){split(loc,a,","); if(a[1]!="" && a[2]!=""){lat=a[1]+0; lon=a[2]+0; gsub(/^ +| +$/,"",stop); gsub(/^ +| +$/,"",line); print stop "\t" lat "\t" lon "\t" line}}}' "$CSV_PATH" \
+          | jq -R 'split("\t") | select(length==4) | {stop: .[0], lat:(.[1]|tonumber), lon:(.[2]|tonumber), line: .[3]}' \
+          | jq -s 'group_by(.stop) | map({stop: .[0].stop, lat: .[0].lat, lon: .[0].lon, lines: ([.[].line] | unique | sort_by([ (tonumber? // 1000000000), tostring ]))}) | sort_by(.stop)' \
+          > "$JSON_PATH"
       - name: Commit and push if changed
         run: |
           git add -N "$JSON_PATH"
           if git diff --quiet --exit-code -- "$JSON_PATH"; then
-            echo "No changes"
             exit 0
           fi
           git config user.name github-actions
