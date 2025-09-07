@@ -21,7 +21,7 @@ jobs:
     env:
       CSV_URL: "https://opendata.tpg.ch/api/explore/v2.1/catalog/datasets/carto-metro-couche-point/exports/csv?lang=en&timezone=Europe%2FBerlin&use_labels=true&delimiter=%3B"
       CSV_PATH: "/tmp/stops.csv"
-      JSON_PATH: "data/stops.json"
+      JSON_PATH: "stops.json"
     steps:
       - uses: actions/checkout@v4
         with:
