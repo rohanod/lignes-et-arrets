@@ -1,0 +1,51 @@
+name: Build stops.json from TPG CSV
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * *"
+  push:
+    paths:
+      - "stops_to_json.py"
+      - ".github/workflows/build-stops-json.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-stops-json
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      CSV_URL: "https://opendata.tpg.ch/api/explore/v2.1/catalog/datasets/carto-metro-couche-point/exports/csv?lang=en&timezone=Europe%2FBerlin&use_labels=true&delimiter=%3B"
+      CSV_PATH: "/tmp/stops.csv"
+      JSON_PATH: "data/stops.json"
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Fetch CSV
+        run: |
+          curl -L --fail -o "$CSV_PATH" "$CSV_URL"
+      - name: Build JSON
+        run: |
+          mkdir -p "$(dirname "$JSON_PATH")"
+          python stops_to_json.py "$CSV_PATH" "$JSON_PATH"
+      - name: Commit and push if changed
+        run: |
+          git add -N "$JSON_PATH"
+          if git diff --quiet --exit-code -- "$JSON_PATH"; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name github-actions
+          git config user.email actions@users.noreply.github.com
+          git add "$JSON_PATH"
+          git commit -m "chore: update stops.json"
+          git push
